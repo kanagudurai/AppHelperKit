@@ -1,0 +1,43 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/sogocomputers/Library/Developer/Xcode/DerivedData/AppHelperKit-egkbjbegcqbhesaihaownajglakm/Build/Products/Debug-iphoneos/AppHelperKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AppHelperKit-Swift.h",
+          'external-contents': "/Users/sogocomputers/Library/Developer/Xcode/DerivedData/AppHelperKit-egkbjbegcqbhesaihaownajglakm/Build/Products/Debug-iphoneos/AppHelperKit.framework/Headers/AppHelperKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AppHelperKit.h",
+          'external-contents': "/Users/sogocomputers/Downloads/AppHelperKit/AppHelperKit/AppHelperKit.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageEffects.h",
+          'external-contents': "/Users/sogocomputers/Downloads/AppHelperKit/AppHelperKit/UIImageEffects.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIUtils.h",
+          'external-contents': "/Users/sogocomputers/Downloads/AppHelperKit/AppHelperKit/UIUtils.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sogocomputers/Library/Developer/Xcode/DerivedData/AppHelperKit-egkbjbegcqbhesaihaownajglakm/Build/Products/Debug-iphoneos/AppHelperKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sogocomputers/Downloads/AppHelperKit/build/AppHelperKit.build/Debug-iphoneos/AppHelperKit.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

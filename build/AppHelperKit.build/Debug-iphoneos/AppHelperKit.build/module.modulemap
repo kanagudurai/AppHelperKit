@@ -1,0 +1,6 @@
+framework module AppHelperKit {
+  umbrella header "AppHelperKit.h"
+
+  export *
+  module * { export * }
+}
